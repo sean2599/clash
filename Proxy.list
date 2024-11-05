@@ -46,10 +46,8 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
-
-domain:googleapis.cn
-domain:googleapis.com
-domain:xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,googleapis.cn
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
